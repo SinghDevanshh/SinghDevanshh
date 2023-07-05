@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Project](https://github.com/SinghDevanshh/Project.git)
 - 🌱 I’m currently learning Game Development
 - ❤ I have a passion for **Software Development and Artificial Intelligence**
-- 🌐 Here is the [link]([https://www.google.com](https://singhdevanshh.github.io./)) to my portfolio website.
+- 🌐 Here is the [link](https://singhdevanshh.github.io./) to my portfolio website.
 - 📫 How to reach me: **singhd80@mcmaster.ca**
 
 <h3 align="left">Connect with me:</h3>
