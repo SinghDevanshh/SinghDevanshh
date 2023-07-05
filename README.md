@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Devansh Singh</h1>
 <h3 align="center">A Computer Science student at McMaster University</h3>
 
-- 🔭 I’m currently working on [Project](https://github.com/SinghDevanshh/Project.git)
+- 🔭 I’m currently working on [Project](https://github.com/SinghDevanshh/Portfolio-Website)
 - 🌱 I’m currently learning Game Development
 - ❤ I have a passion for **Software Development and Artificial Intelligence**
 - 🌐 Here is the [link](https://singhdevanshh.github.io./) to my portfolio website.
