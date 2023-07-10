@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devansh-singh-27a69b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devansh Singh | LinkedIn" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1031668946702704670" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Devansh Singh | Discord" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1031668946702704670" target="blank"><img align="center" src="https://cdn.simpleicons.org/discord" alt="Devansh Singh | Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
